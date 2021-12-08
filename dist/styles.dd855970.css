@@ -1,0 +1,13 @@
+#app {
+  margin: 0 45px;
+}
+
+.cube {
+  margin-top: 20px;
+}
+
+.card.border-dark.mb-3.cube {
+  flex: none;
+}
+
+/*# sourceMappingURL=/styles.dd855970.css.map */

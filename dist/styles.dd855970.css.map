@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/styles.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"styles.dd855970.css","sourceRoot":"..","sourcesContent":["#app {\n  margin: 0 45px;\n}\n\n.cube {\n  margin-top: 20px;\n}\n\n.card.border-dark.mb-3.cube {\n  flex: none;\n}"]}
